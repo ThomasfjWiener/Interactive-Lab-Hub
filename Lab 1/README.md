@@ -76,19 +76,67 @@ The interactive device can be anything *except* a computer, a tablet computer or
 \*\***Include pictures of your storyboards here**\*\*
 
 **Storyboard 1: Maze**
-Setting: Treasure Island (Mysterious Maze Treasure Hunt)
-Players: Guy1 (unfamiliar with the map), Guy2 (familiar with the map)
-Activity: They are trying to figure out how to use the map. The map lights up the closer you get to the treasure. 
-Goals: To find the treasure using the map (our devices), which gradually illuminates the area ahead to help the user find the correct path.
+- Setting: Treasure Island (Mysterious Maze Treasure Hunt)
+- Players: Guy1 (unfamiliar with the map), Guy2 (familiar with the map)
+- Activity: They are trying to figure out how to use the map. The map lights up the closer you get to the treasure. 
+- Goals: To find the treasure using the map (our devices), which gradually illuminates the area ahead to help the user find the correct path.
 A user with a map (dude 1) is exploring unknown terrain. His map changes colors, but as he approaches the treasure he so dearly desires, the map becomes brighter and brighter until it is almost blinding. He is close to the treasure he is looking for.
 
-Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
+![Screenshot](image7.jpg)
 
-![Storyboard1](image1.jpg)
+**Storyboard 2: Treasure hunt again, no maze** 
+- Setting: Treasure Island (Mysterious Treasure Hunt)
+- Players: explorer with lighting-up map 
+- Activity: They are exploring the island. The map lights up corresponding to the colors of the natural environment. However, when close to treasure, the map will light up yellow 
+- Goals: To find the treasure using the map (our devices), which gradually illuminates the area ahead to help the user find the correct path.
 
+![Screenshot](image5.jpg)
+
+**Storyboard 3:Pet feeding reminder**
+- Setting: The homes of pet owners.
+- Players: The owner of a pet (e.g. a dog or cat), pet.
+- Activity: The device can be placed at a place where the user will often be around, for example beside their bed. When there is not enough food or water in the pet’s bowl, the device will light up according to what is about to run out (e.g. yellow for food and blue for water). This way, the user will remember to add more food/water for the pet even if they do not walk to the pet’s bowls.
+- Goals: To help remind pet owners to add food/water for their pets. 
+
+![Screenshot](image1.jpg)
+
+**Storyboard 4: Trash Sorter**
+- Setting: The refuse room in buildings in Shanghai. (Shanghai has a mandatory sorting scheme, requiring residents to separate trash into four categories: recyclable, hazardous, wet (perishable) and dry (other) waste, and many people are confused by these categories)
+- Players: A person who is wanting to throw away trash according to categories.
+- Activity: When the user shows the trash to the trash sorter, the trash sorter will respond to which kind of trash it is by chasing color. For example blue for recyclable trash, green for wet trash, etc.
+- Goals: To help the user categorize the kinds of trash, so they can throw trash into the correct bins. 
+
+![Screenshot](image4.jpg)
+
+**Storyboard 5: Magical Reminder Clock**
+- Setting: Bedroom of any person with a magical clock
+- Players: A person and his magical reminder clock
+- Activity: The magical reminder flashes colors to remind the user to do several actions. It changes colors and makes noise to tell the user what to do. Eg. 
+- Goals: Get the user to do the action that the reminder is trying to remind the user to do. 
+
+![Screenshot](image9.jpg)
+
+**Storyboard 6: Smartplant Reader**
+- Setting: Just any room with a plant and a person
+- Players: A person who owns a plant
+- Activity: The person is figuring out what a plant likes by attempting several actions towards the plant (watering it or feeding it)
+- Goals: Get the plant happy and growing <br>
+So we have a dude who is surprised to see a plant in his room. He sees it is sad so he tries to offer it food. The plant is angry at the offering. The man then offers the plant some water in a bottle and the plant looks neutral. The man finally sprinkles water on the plant and the plant becomes happy. The plant also likes music :D. It gets sad around arguing.
+
+![Screenshot](image6.jpg)
+
+**Storyboard 7: Plants again but tinkerbell is the pot itself rather than an attachment**
+- Setting: Just any room with a plant and a person
+- Players: A person who owns a plant
+- Activity: The person is figuring out what a is good for the plant by attempting several actions towards the plant (watering it, feeding it, providing sunlight) and responding to pot’s assessments
+- Goals: Get the plant happy and growing <br>
+So we have a person who is surprised to see a plant in his room. In this scenario, the pot monitors the well-being and emotional state of the plant, and communicates to the person that it is thirsty. Offering food at first makes the pot angry. The man then offers the plant some water in a bottle and the plant looks neutral. The man finally sprinkles water on the plant and the plant becomes happy. The plant also likes music :D. It gets sad around arguing.
+
+![Screenshot](image3.jpg)
 
 \*\***Summarize feedback you got here.**\*\*
 
+Based on asking around, we were able to get limited feedback around our ideas, particularly around the first idea we were told it seemed interesting and asking the TA were told it covered all of our basic requirements. From that idea we created the rest of the six and we found out that they were kind of interesting and fun ideas. We learned that we could definitely be a bit more creative since some of the ideas are rather similar. We will take it into consideration (next week!).
 
 ## Part B. Act out the Interaction
 
