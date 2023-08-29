@@ -4,15 +4,10 @@
 
 \*\***NAME OF COLLABORATORS HERE**\*\*
 
-_Kazim Jafri (khj23)
-_
-_Re (rc884)
-_
-_Thomas (tfw29)
-_
-_Zixin (zl865)
-_
-Link to our group's work: https://docs.google.com/document/d/1IF-8p7AqVKzw7TdsoV66ZMA1laeS3h9H1282nL8gCd0
+_Kazim Jafri (khj23)_ <br>
+_Re (rc884)_ <br>
+_Thomas (tfw29)_ <br>
+_Zixin (zl865)_ <br>
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
