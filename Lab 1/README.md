@@ -84,7 +84,7 @@ A user with a map (dude 1) is exploring unknown terrain. His map changes colors,
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
-![Storyboard1](image1.png)
+![Storyboard1](image1.jpg)
 
 
 \*\***Summarize feedback you got here.**\*\*
