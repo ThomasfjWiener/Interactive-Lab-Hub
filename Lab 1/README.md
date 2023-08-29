@@ -88,7 +88,7 @@ Activity: They are trying to figure out how to use the map. The map lights up th
 Goals: To find the treasure using the map (our devices), which gradually illuminates the area ahead to help the user find the correct path.
 A user with a map (dude 1) is exploring unknown terrain. His map changes colors, but as he approaches the treasure he so dearly desires, the map becomes brighter and brighter until it is almost blinding. He is close to the treasure he is looking for.
 
-![Screenshot](image7.png)
+![Screenshot](image7.jpg)
 
 Storyboard 2: Treasure hunt again, no maze
 Setting: Treasure Island (Mysterious Treasure Hunt)
@@ -96,7 +96,7 @@ Players: explorer with lighting-up map
 Activity: They are exploring the island. The map lights up corresponding to the colors of the natural environment. However, when close to treasure, the map will light up yellow 
 Goals: To find the treasure using the map (our devices), which gradually illuminates the area ahead to help the user find the correct path.
 
-![Screenshot](image5.png)
+![Screenshot](image5.jpg)
 
 Storyboard 3: Pet feeding reminder
 Setting: The homes of pet owners.
@@ -104,7 +104,7 @@ Players: The owner of a pet (e.g. a dog or cat), pet.
 Activity: The device can be placed at a place where the user will often be around, for example beside their bed. When there is not enough food or water in the pet’s bowl, the device will light up according to what is about to run out (e.g. yellow for food and blue for water). This way, the user will remember to add more food/water for the pet even if they do not walk to the pet’s bowls.
 Goals: To help remind pet owners to add food/water for their pets. 
 
-![Screenshot](image1.png)
+![Screenshot](image1.jpg)
 
 
 Storyboard 4: Trash Sorter
@@ -113,7 +113,7 @@ Players: A person who is wanting to throw away trash according to categories.
 Activity: When the user shows the trash to the trash sorter, the trash sorter will respond to which kind of trash it is by chasing color. For example blue for recyclable trash, green for wet trash, etc.
 Goals: To help the user categorize the kinds of trash, so they can throw trash into the correct bins. 
 
-![Screenshot](image4.png)
+![Screenshot](image4.jpg)
 
 
 Storyboard 5: Magical Reminder Clock
@@ -122,7 +122,7 @@ Players: A person and his magical reminder clock
 Activity: The magical reminder flashes colors to remind the user to do several actions. It changes colors and makes noise to tell the user what to do. Eg. 
 Goals: Get the user to do the action that the reminder is trying to remind the user to do. 
 
-![Screenshot](image9.png)
+![Screenshot](image9.jpg)
 
 Storyboard 6: Smartplant Reader
 Setting: Just any room with a plant and a person
@@ -131,7 +131,7 @@ Activity: The person is figuring out what a plant likes by attempting several ac
 Goals: Get the plant happy and growing
 So we have a dude who is surprised to see a plant in his room. He sees it is sad so he tries to offer it food. The plant is angry at the offering. The man then offers the plant some water in a bottle and the plant looks neutral. The man finally sprinkles water on the plant and the plant becomes happy. The plant also likes music :D. It gets sad around arguing.
 
-![Screenshot](image6.png)
+![Screenshot](image6.jpg)
 
 Storyboard 7: Plants again but tinkerbell is the pot itself rather than an attachment
 Setting: Just any room with a plant and a person
@@ -140,7 +140,7 @@ Activity: The person is figuring out what a is good for the plant by attempting 
 Goals: Get the plant happy and growing
 So we have a person who is surprised to see a plant in his room. In this scenario, the pot monitors the well-being and emotional state of the plant, and communicates to the person that it is thirsty. Offering food at first makes the pot angry. The man then offers the plant some water in a bottle and the plant looks neutral. The man finally sprinkles water on the plant and the plant becomes happy. The plant also likes music :D. It gets sad around arguing.
 
-![Screenshot](image3.png)
+![Screenshot](image3.jpg)
 
 **Summarize feedback you got here.**
 
@@ -190,15 +190,15 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your devices might look like here.**
 Clip-on device with screen
-![Screenshot](image2.png)
+![Screenshot](image2.jpg)
 
 Embedded screen 1
 
-![Screenshot](image10.png)
+![Screenshot](image10.jpg)
 
 Embedded screen 2
 
-![Screenshot](image8.png)
+![Screenshot](image8.jpg)
 
 **What concerns or opportunities are influencing the way you've designed the device to look?**
 The main concern was not being able to confuse the device as trash itself. Another concern would be potential contamination from trash being moved over the device. There is potential for water from a water bottle to drip onto the device causing potential water damage. It needs to be dressed to not look like something to throw away as well as be protected from potential garbage, but the latter may be solved with better placement.
